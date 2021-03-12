@@ -1,7 +1,7 @@
 # BIO613
 Resources from BIO 613: Advanced Ecological Analysis
 
-# Spring 2021 content overview below:
+## Spring 2021 content overview below:
 
 1. Introduction to Data and R: Data Exploration, Graphics, Data Management
 2. Linear Regression and ANOVA
