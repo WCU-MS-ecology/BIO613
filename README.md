@@ -10,3 +10,4 @@ Resources from BIO 613: Advanced Ecological Analysis
 5. Simulation and Randomization
 6. Model evaluation and selection - Frequentist (Likelihood and the Likelihood Ratio Test)
 7. Model evaluation and selection - Bayesian Regression Models
+8. Mixed-effects Models
